@@ -1,0 +1,1 @@
+Use this to test and callibrate the Flex sensor by Spectra Symbol. Output is a moving average.
